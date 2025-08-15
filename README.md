@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-A powerful documentation system that automatically generates and maintains `GROUND_TRUTH.md` files for every folder in your project. Designed to prevent context loss when working with AI coding assistants like Claude, ChatGPT, and GitHub Copilot.
+A powerful documentation system that automatically generates and maintains `GROUND_TRUTH.md` files for every folder in your project. Designed to prevent context loss when working with AI coding assistants.
 
 ## 🎯 Why Ground Truth?
 
