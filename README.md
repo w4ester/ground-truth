@@ -190,9 +190,9 @@ python ground_truth_watcher.py --init
 ### Environment Variables
 No configuration needed! Ground Truth works out of the box.
 
-## 🤖 AI Assistant Integration
+## Tooling Assistant Integration
 
-### For Claude, ChatGPT, Cursor, etc.
+### For your colleagues and code tools (we are talking to you llm /chat /LLM /AI 
 When starting a new session, tell the AI:
 
 > "This project uses Ground Truth documentation. Check GROUND_TRUTH.md in each folder before making changes."
@@ -230,7 +230,7 @@ ground-truth/
 
 ## 📋 Requirements
 
-- Python 3.7+
+- Python 3.8+
 - watchdog (for automatic updates)
 - git (optional, for history tracking)
 
@@ -266,10 +266,10 @@ MIT License - See [LICENSE](LICENSE) file for details.
 - **Issues**: [GitHub Issues](https://github.com/w4ester/ground-truth/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/w4ester/ground-truth/discussions)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
-Created to solve the "context loss" problem when working with AI coding assistants. Inspired by the challenges of maintaining large codebases with multiple AI sessions.
+Created to solve the "context loss" problem when working with coding assistants. Inspired by the challenges of maintaining large codebases in real life before ai tools but now with llms it is even more reason to build.
 
 ---
 
-**Remember**: Good documentation is the ground truth of your codebase! 📚
+**Remember**: Good documentation is the ground truth of a codebase.
